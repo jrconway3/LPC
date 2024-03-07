@@ -22,6 +22,8 @@ If you've found this project helpful and would like to support us, consider beco
 Thank you for being a part of our community, and happy gaming!!
 
 
+
 NOTE FROM JAIDYNREIMAN:
+
 I have forked this merely to (possibly) contribute to the original repository in some way, please still see Eliza's original repository:
 https://github.com/ElizaWy/LPC
